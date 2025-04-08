@@ -1,0 +1,527 @@
+[
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "genre": "Fiction",
+    "image": "https://covers.openlibrary.org/b/id/240726-S.jpg"
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "genre": "Fantasy",
+    "image": "https://covers.openlibrary.org/b/id/8231991-S.jpg"
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "genre": "Adventure",
+    "image": "https://covers.openlibrary.org/b/id/295577-S.jpg"
+  },
+  {
+    "title": "The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "genre": "Adventure",
+    "image": "https://covers.openlibrary.org/b/id/8488696-S.jpg"
+  },
+  {
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "genre": "Adventure",
+    "image": "https://covers.openlibrary.org/b/id/6979861-S.jpg"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "image": "https://covers.openlibrary.org/b/id/8099256-S.jpg"
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "genre": "Gothic",
+    "image": "https://covers.openlibrary.org/b/id/8234150-S.jpg"
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "Gothic",
+    "image": "https://covers.openlibrary.org/b/id/8228691-S.jpg"
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "image": "https://covers.openlibrary.org/b/id/8101352-S.jpg"
+  },
+  {
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "genre": "Historical Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235116-S.jpg"
+  },
+  {
+    "title": "Gulliver's Travels",
+    "author": "Jonathan Swift",
+    "genre": "Satire",
+    "image": "https://covers.openlibrary.org/b/id/8774434-S.jpg"
+  },
+  {
+    "title": "The Pilgrim's Progress",
+    "author": "John Bunyan",
+    "genre": "Religious",
+    "image": "https://covers.openlibrary.org/b/id/8774811-S.jpg"
+  },
+  {
+    "title": "A Christmas Carol",
+    "author": "Charles Dickens",
+    "genre": "Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8231325-S.jpg"
+  },
+  {
+    "title": "David Copperfield",
+    "author": "Charles Dickens",
+    "genre": "Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8231932-S.jpg"
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "genre": "Historical Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8231505-S.jpg"
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "genre": "Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8099255-S.jpg"
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "genre": "Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8231930-S.jpg"
+  },
+  {
+    "title": "The Hobbit, or, There and Back Again",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "image": "https://covers.openlibrary.org/b/id/6979862-S.jpg"
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235117-S.jpg"
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Psychological Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235118-S.jpg"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235119-S.jpg"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235120-S.jpg"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "image": "https://covers.openlibrary.org/b/id/8235121-S.jpg"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235122-S.jpg"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian",
+    "image": "https://covers.openlibrary.org/b/id/8235123-S.jpg"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "image": "https://covers.openlibrary.org/b/id/8235124-S.jpg"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Dystopian",
+    "image": "https://covers.openlibrary.org/b/id/8235125-S.jpg"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "genre": "Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235126-S.jpg"
+  },
+  {
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "image": "https://covers.openlibrary.org/b/id/8235130-S.jpg"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Philosophical Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235131-S.jpg"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Gothic Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235132-S.jpg"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Gothic Horror",
+    "image": "https://covers.openlibrary.org/b/id/8235133-S.jpg"
+  },
+  {
+    "title": "The Great Divorce",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "image": "https://covers.openlibrary.org/b/id/8235134-S.jpg"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235135-S.jpg"
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "genre": "Historical Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235136-S.jpg"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "genre": "Dystopian",
+    "image": "https://covers.openlibrary.org/b/id/8235137-S.jpg"
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "image": "https://covers.openlibrary.org/b/id/8235138-S.jpg"
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "genre": "Historical Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235139-S.jpg"
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "genre": "Post-apocalyptic Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235140-S.jpg"
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "genre": "Thriller",
+    "image": "https://covers.openlibrary.org/b/id/8235141-S.jpg"
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "genre": "Thriller",
+    "image": "https://covers.openlibrary.org/b/id/8235142-S.jpg"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Philosophical Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235143-S.jpg"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "genre": "Non-fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235144-S.jpg"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "genre": "Mystery/Thriller",
+    "image": "https://covers.openlibrary.org/b/id/8235145-S.jpg"
+  },
+  {
+    "title": "Shantaram",
+    "author": "Gregory David Roberts",
+    "genre": "Adventure",
+    "image": "https://covers.openlibrary.org/b/id/8235146-S.jpg"
+  },
+  {
+    "title": "The Outsiders",
+    "author": "S.E. Hinton",
+    "genre": "Young Adult Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235147-S.jpg"
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "genre": "Dystopian Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235148-S.jpg"
+  },
+  {
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "image": "https://covers.openlibrary.org/b/id/8235149-S.jpg"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "genre": "Young Adult Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235150-S.jpg"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "image": "https://covers.openlibrary.org/b/id/8235151-S.jpg"
+  },
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235152-S.jpg"
+  },
+  {
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "genre": "Adventure Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235153-S.jpg"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235154-S.jpg"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "image": "https://covers.openlibrary.org/b/id/8235155-S.jpg"
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "genre": "Dystopian Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235156-S.jpg"
+  },
+  {
+    "title": "The Twilight Saga",
+    "author": "Stephenie Meyer",
+    "genre": "Young Adult Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235157-S.jpg"
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "image": "https://covers.openlibrary.org/b/id/8235158-S.jpg"
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "genre": "Historical Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235159-S.jpg"
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "genre": "Post-apocalyptic Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235160-S.jpg"
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "author": "Stephen Chbosky",
+    "genre": "Young Adult Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235161-S.jpg"
+  },
+  {
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "genre": "Mystery",
+    "image": "https://covers.openlibrary.org/b/id/8235162-S.jpg"
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "genre": "Psychological Thriller",
+    "image": "https://covers.openlibrary.org/b/id/8235163-S.jpg"
+  },
+  {
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "genre": "Children's Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235164-S.jpg"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Historical Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235165-S.jpg"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "genre": "Mystery/Thriller",
+    "image": "https://covers.openlibrary.org/b/id/8235166-S.jpg"
+  },
+  {
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "genre": "Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235167-S.jpg"
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "genre": "Psychological Thriller",
+    "image": "https://covers.openlibrary.org/b/id/8235168-S.jpg"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Adventure, Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235170-S.jpg"
+  },
+  {
+    "title": "The Help",
+    "author": "Kathryn Stockett",
+    "genre": "Historical Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235171-S.jpg"
+  },
+  {
+    "title": "The Outsiders",
+    "author": "S.E. Hinton",
+    "genre": "Young Adult Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235172-S.jpg"
+  },
+  {
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "genre": "Fantasy",
+    "image": "https://covers.openlibrary.org/b/id/8235173-S.jpg"
+  },
+  {
+    "title": "The Secret Life of Bees",
+    "author": "Sue Monk Kidd",
+    "genre": "Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235174-S.jpg"
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "genre": "Historical Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235175-S.jpg"
+  },
+  {
+    "title": "The Poisonwood Bible",
+    "author": "Barbara Kingsolver",
+    "genre": "Historical Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235176-S.jpg"
+  },
+  {
+    "title": "The Nightingale",
+    "author": "Kristin Hannah",
+    "genre": "Historical Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235177-S.jpg"
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "genre": "Fantasy, Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235178-S.jpg"
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "genre": "Historical Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235179-S.jpg"
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "genre": "Psychological Thriller",
+    "image": "https://covers.openlibrary.org/b/id/8235180-S.jpg"
+  },
+  {
+    "title": "Shantaram",
+    "author": "Gregory David Roberts",
+    "genre": "Fiction, Adventure",
+    "image": "https://covers.openlibrary.org/b/id/8235181-S.jpg"
+  },
+  {
+    "title": "The Underground Railroad",
+    "author": "Colson Whitehead",
+    "genre": "Historical Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235182-S.jpg"
+  },
+  {
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "genre": "Dystopian Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235183-S.jpg"
+  },
+  {
+    "title": "A Man Called Ove",
+    "author": "Fredrik Backman",
+    "genre": "Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235184-S.jpg"
+  },
+  {
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "genre": "Mystery, Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235185-S.jpg"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "genre": "Mystery, Thriller",
+    "image": "https://covers.openlibrary.org/b/id/8235186-S.jpg"
+  },
+  {
+    "title": "The 5th Wave",
+    "author": "Rick Yancey",
+    "genre": "Science Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235187-S.jpg"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "genre": "Dystopian, Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8235188-S.jpg"
+  },
+  {
+    "title": "The Girl in the Spider's Web",
+    "author": "David Lagercrantz",
+    "genre": "Thriller, Mystery",
+    "image": "https://covers.openlibrary.org/b/id/8235189-S.jpg"
+  }
+]
+
+
+

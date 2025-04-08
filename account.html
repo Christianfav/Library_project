@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Account</title>
+</head>
+<body>
+    <h1>Account</h1>
+    <div id="homepage">
+        <a href="index.html"><button>Homepage</button></a>
+    </div>
+    <!--sign in-->
+
+
+<!--create account form-->
+<!--TODO add cronstraints and checks where needed-->
+<form action="example.com">
+    <table>
+        <th>General Information</th>
+        <tr>
+            <td><label for="fname">First Name:</label></td>
+            <td><input type="text" name="name" id="fname" required></td>
+        </tr>
+        <tr>
+            <td><label for="lname">Last Name:</label></td>
+            <td><input type="text" name="name" id="lname" required></td>
+        </tr>
+        <tr>
+            <td><label for="bdate">Date of Birth:</label></td>
+            <td><input type="date" name="bdate" id="bdate" required></td>
+        </tr>
+        <th>Contact Information</th>
+        <tr>
+            <td><label for="email">Email Address:</label></td>
+            <td><input type="email" name="email" id="email" required></td>
+        </tr>
+        <tr>
+            <td><label for="pno">Phone Number:</label></td>
+            <td><input type="number" name="pno" id="pno" required></td>
+        </tr>
+        <th>Address</th>
+        <tr>
+            <td><label for="street">Street:</label></td>
+            <td><input type="text" name="address" id="street" required></td>
+        </tr>
+        <tr>
+            <td><label for="city">City:</label></td>
+            <td><input type="text" name="address" id="city" required></td>
+        </tr>
+        <tr>
+            <td><label for="state">State:</label></td>
+            <td><input type="text" name="address" id="state" required></td>
+        </tr>
+        <tr>
+            <td><label for="zip">ZIP:</label></td>
+            <!--minlength and maxlength ensure that the zipcode is a valid length-->
+            <td><input type="number" minlength="4" maxlength="9" name="address" id="zip" required></td>
+        </tr>
+        <th>Payment Information</th>
+        <tr>
+            <td><label for="card_no">Card Number:</label></td>
+            <td><input type="number" minlength="13" maxlength="19" name="card" id="card_no" required></td>
+        </tr>
+        <tr>
+            <td><label for="card_name">Name on the Card:</label></td>
+            <td><input type="text" name="card" id="card_name" required></td>
+        </tr>
+        <tr>
+            <td><label for="exp_date">Experation Date:</label></td>
+            <!--only need the month and year(no day), figure out how to do that-->
+            <td><input type="date" name="card" id="exp_date" required></td>
+        </tr>
+        <tr>
+            <td><label for="cvv">CVV:</label></td>
+            <!--minlength and maxlength ensures that the cvv is a valid length, cvvs are 3 or 4 digits long-->
+            <td><input type="number" minlength="3" maxlength="4" name="card" id="cvv" required></td>
+        </tr>
+    </table>
+</form>
+<script src="script.js"></script>
+
+<!--renew card-->
+</body>
+</html>
