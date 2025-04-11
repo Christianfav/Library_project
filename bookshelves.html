@@ -21,7 +21,7 @@
 
         <label for="genreSelect">Filter by Genre</label>
         <select id="genreSelect" data-genre>
-            <option value="">All Genres</option>
+            <option value="none">None</option>
             <option value="Fiction">Fiction</option>
             <option value="Fantasy">Fantasy</option>
             <option value="Adventure">Adventure</option>
@@ -35,6 +35,9 @@
         </select>
     </div>
 
+    <a href="all-books.html" id="see-all"><button>See all Books</button></a>
+    <button id="refresh-books">Refresh</button>
+
     <div class="B-grid" data-book-container></div>
 
     <template data-book-template>
@@ -45,6 +48,92 @@
             </div>
         </div>
     </template>
+
+    <div id="removeReservation">
+        <button onclick="removeReservation()">Remove Reservations</button>
+    </div>
+
+    <button onclick="confirmReservation()" id="confirmReservationBtn">Confirm Reservations</button>
+    
+
+    <table id="bookshelf-table">
+        <caption>Room Reservations</caption>
+        <thead>
+            <tr class="bookshelf-row" id="dateRow">
+                <th class="timeSlots"></th>
+                <th class="timeSlots"></th>
+                <th class="timeSlots"></th>
+                <th class="timeSlots"></th>
+                <th class="timeSlots"></th>
+                <th class="timeSlots"></th>
+                <th class="timeSlots"></th>
+                <th class="timeSlots"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="reservedTime">6:00 PM</td>
+                <td class="availability"></td>
+                <td class="reserve"></td>
+                <td class="availability"></td>
+                <td class="availability"></td>
+                <td class="availability"></td>
+                <td class="reserve"></td>
+                <td class="availability"></td>
+            </tr>
+            <tr>
+                <td class="reservedTime">8:00 PM</td>
+                <td class="availability"></td>
+                <td class="reserve"></td>
+                <td class="availability"></td>
+                <td class="availability"></td>
+                <td class="availability"></td>
+                <td class="reserve"></td>
+                <td class="reserve"></td>
+            </tr>
+            <tr>
+                <td class="reservedTime">10:00 PM</td>
+                <td class="reserve"></td>
+                <td class="availability"></td>
+                <td class="availability"></td>
+                <td class="reserve"></td>
+                <td class="availability"></td>
+                <td class="availability"></td>
+                <td class="availability"></td>
+
+            </tr>
+            <tr>
+                <td class="reservedTime">12:00 PM</td>
+                <td class="reserve"></td>
+                <td class="availability"></td>
+                <td class="availability"></td>
+                <td class="reserve"></td>
+                <td class="availability"></td>
+                <td class="reserve"></td>
+                <td class="availability"></td>
+            </tr>
+            <tr>
+                <td class="reservedTime">2:00 PM</td>
+                <td class="availability"></td>
+                <td class="reserve"></td>
+                <td class="availability"></td>
+                <td class="availability"></td>
+                <td class="reserve"></td>
+                <td class="availability"></td>
+                <td class="availability"></td>
+            </tr>
+            <tr>
+                <td class="reservedTime">4:00 PM</td>
+                <td class="availability"></td>
+                <td class="reserve"></td>
+                <td class="availability"></td>
+                <td class="availability"></td>
+                <td class="reserve"></td>
+                <td class="availability"></td>
+                <td class="reserve"></td>
+            </tr>
+        </tbody>
+    </table>
        <!--book search by name, author, genre, age group, etc.
 with pictures and book info(description, author, availability, etc)
 possibly allows library members to place holds
