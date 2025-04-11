@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+    <title>Bookshelf</title>
+</head>
+<body>
+    <div id="homepage">
+        <a href="index.html"><button>Homepage</button></a>
+    </div>
+    <h1>Bookshelves</h1>
+
+    
+
+    <div class="book-wrap">
+        <label for="search"> Search Books</label>
+        <input type="search" id="search" placeholder="Search by titles/authors" data-search>
+
+        <label for="genreSelect">Filter by Genre</label>
+        <select id="genreSelect" data-genre>
+            <option value="">All Genres</option>
+            <option value="Fiction">Fiction</option>
+            <option value="Fantasy">Fantasy</option>
+            <option value="Adventure">Adventure</option>
+            <option value="Romance">Romance</option>
+            <option value="Gothic">Gothic</option>
+            <option value="Horror">Horror</option>
+            <option value="Satire">Satire</option>
+            <option value="Religious">Religious</option>
+            <option value="Psychological Fiction">Psychological Fiction</option>
+            <option value="Dystopian">Dystopian</option>
+        </select>
+    </div>
+
+    <a href="bookshelves.html" id="see-all"><button>Back</button></a>
+
+    <div class="B-grid" data-book-container></div>
+
+    <template data-book-template>
+        <div class="B-grid">     
+            <div class="block">
+                <div class="header" data-header></div>
+                <div class="body" data-body></div>
+            </div>
+        </div>
+    </template>
+       <!--book search by name, author, genre, age group, etc.
+with pictures and book info(description, author, availability, etc)
+possibly allows library members to place holds
+e-books and audiobooks?
+other things like games, instruments, dvds, or room reservations-->
+</body>
+</html>

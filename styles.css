@@ -135,10 +135,10 @@ body {
 .B-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: .25rem;
+    gap: 17px;
     margin-top: 1rem;
     padding-left: 60px;
-    padding-right: 120px;
+    padding-right: 150px;
 }
 
 .block {
@@ -172,4 +172,64 @@ body {
 
 .hide {
     display: none;
+}
+
+#see-all {
+    position: absolute;
+    right: 10px;
+    margin-top: 10px; 
+    margin-right: 0px;
+}
+/* reservation table */
+
+#bookshelf-table {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.reservedTime {
+    border: 2px solid black;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.availability {
+    width: 100px;
+    height: 70px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+
+}
+.timeSlots {
+    width: 100px;
+    height: 70px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    vertical-align: middle;
+    text-align: center;
+}
+.bookshelf-row {
+    border: 1px solid black;
+}
+
+.selected {
+    background-color: lightgreen;
+}
+.reserve {
+    background-color: lightcoral;
+    width: 100px;
+    height: 70px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    vertical-align: middle;
+    text-align: center;
+}
+#removeReservation {
+    margin-top: 100px;
+    cursor: pointer;
+
 }
